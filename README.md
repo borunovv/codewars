@@ -1,2 +1,2 @@
 # codewars
-Train with challenges from codewars.com
+Some interesting challenges from codewars.com
